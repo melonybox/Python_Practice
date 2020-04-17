@@ -20,7 +20,7 @@ def concat_name(first_name, last_name):
 	newSentence = last_name + ", " + first_name
 	return newSentence
 
-#Strings are immutable in pythons
+#Strings are immutable in pythons, unlike js and ruby
 
 # ---
 
