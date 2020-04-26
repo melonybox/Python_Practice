@@ -21,7 +21,6 @@ def concat_name(first_name, last_name):
 	return newSentence
 
 #Strings are immutable in pythons, unlike js and ruby
-
 # ---
 
 def frames(minutes, fps):
