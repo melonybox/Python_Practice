@@ -63,4 +63,5 @@ def count_syllables(txt):
 #array of the object values
 #sum of the array values to get the count
 #return sum(1 for i in txt.lower() if i in 'aeiou')
+#1 is the value to increase the sum count each time a vowel is found
 # ---
